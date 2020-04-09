@@ -33,4 +33,5 @@ function addItemToShoppingList() {
 function createListItemHtml(itemName, itemAmount) {
 	return `<li>${itemName} - ${itemAmount}</li>`;
 
+
 }
